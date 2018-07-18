@@ -33,6 +33,13 @@ public class Khahani {
         radius2 = 5.25f;
 
         // TODO: 5- Print area of each circle
+        float pi = 3.14f;
+        float circleArea1 = radius1 * radius1 * pi;
+        float circleArea2 = radius2 * radius2 * pi;
+
+        System.out.println("Circle area 1: " + circleArea1);
+        System.out.println("Circle area 2: " + circleArea2);
+
         // TODO: 6- Print environment of each circle
     }
 }
