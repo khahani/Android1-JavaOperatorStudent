@@ -27,6 +27,11 @@ public class Khahani {
         System.out.println("Rectangle 3 environment: " + (width3 + height3) * 2);
 
         // TODO: 4- Create two circle
+        float radius1, radius2;
+
+        radius1 = 12.5f;
+        radius2 = 5.25f;
+
         // TODO: 5- Print area of each circle
         // TODO: 6- Print environment of each circle
     }
