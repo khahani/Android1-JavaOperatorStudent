@@ -21,8 +21,11 @@ public class Khahani {
 
         System.out.println("Rectangle 3 area: " + width3 * height3);
 
-
         // TODO: 3- Print environment of each rectangle
+        System.out.println("Rectangle 1 environment: " + (width1 + height1) * 2);
+        System.out.println("Rectangle 2 environment: " + (width2 + height2) * 2);
+        System.out.println("Rectangle 3 environment: " + (width3 + height3) * 2);
+
         // TODO: 4- Create two circle
         // TODO: 5- Print area of each circle
         // TODO: 6- Print environment of each circle
