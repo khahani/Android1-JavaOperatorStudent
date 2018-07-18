@@ -41,5 +41,7 @@ public class Khahani {
         System.out.println("Circle area 2: " + circleArea2);
 
         // TODO: 6- Print environment of each circle
+        System.out.println("Circle environment 1: " + (radius1 + radius1) * pi);
+        System.out.println("Circle environment 2: " + (radius2 + radius2) * pi);
     }
 }
